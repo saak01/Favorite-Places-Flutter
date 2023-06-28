@@ -2,9 +2,9 @@
 
 O "Favorite Place" é um aplicativo criado por mim em Flutter, projetado especificamente para permitir que você adicione e armazene seus locais favoritos. Com este aplicativo, você pode adicionar um título, uma foto e até mesmo usar recursos nativos do Android, como a câmera, para capturar imagens dos seus lugares favoritos.
 
- <img align="center" alt="Favorite_Place" height="500" width="300" src="https://i.imgur.com/0E3MPxt.png">
- <img align="center" alt="Favorite_Place" height="500" width="300" src="https://i.imgur.com/CMastY9.png">
-  <img align="center" alt="Favorite_Place" height="500" width="300" src="https://i.imgur.com/cXCNOz8.png">
+ <img align="center" alt="Favorite_Place" height="600" width="300" src="https://i.imgur.com/0E3MPxt.png">
+ <img align="center" alt="Favorite_Place" height="600" width="300" src="https://i.imgur.com/CMastY9.png">
+  <img align="center" alt="Favorite_Place" height="600" width="300" src="https://i.imgur.com/cXCNOz8.png">
 
 
  <h2>Introdução</h2>
